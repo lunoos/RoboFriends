@@ -1,0 +1,12 @@
+@font-face {
+font-family: 'Pee_on_face';
+font-style: normal;
+font-weight: normal;
+src: local('Pee_on_face'), url('pee-on-your-face.woff') format('woff');
+}
+
+h1 {
+	font-family:'Pee_on_face';
+	font-weight: 200;
+	color:#0ccac4;
+}
